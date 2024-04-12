@@ -13,10 +13,6 @@ export default defineComponent({
 
         streaming: true,
 
-        //apiKey: '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',
-
-
-
         modelName: "meta-llama/Llama-2-70b-chat-hf",
 
       }),
