@@ -15,7 +15,7 @@ export default defineComponent({
 
         //apiKey: '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',
 
-        togetherAIApiKey: 'a6300585f5f374fd31ee27db2d01ca30feb7ffa324f5950633bdce4e805ac434',
+
 
         modelName: "meta-llama/Llama-2-70b-chat-hf",
 
