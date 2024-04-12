@@ -1,1 +1,0 @@
-{"version":3,"file":"searchConfiguration.js","sourceRoot":"","sources":["../../src/utils/searchConfiguration.ts"],"names":[],"mappings":";;;AAGA,MAAc,mBAAmB;IA0B/B,YAAY,aAAiB;QAE3B,IAAI,CAAC,IAAI,GAAC,aAAa,CAAC,IAAI,CAAC;QAE7B,IAAI,CAAC,qBAAqB,GAAC,aAAa,CAAC,qBAAqB,CAAC;QAE/D,IAAI,CAAC,UAAU,GAAC,aAAa,CAAC,UAAU,CAAC;IAE3C,CAAC;CAEF;AApCD,kDAoCC"}
